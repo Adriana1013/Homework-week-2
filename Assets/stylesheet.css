@@ -2,15 +2,22 @@ body {
     position: relative;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
-    background-color: #9cecfc;
+    background-color: #ffffff;
     color: #000000;
-    display: block;
   }
 
 .text-right{
     text-align: right;
 }
 
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: rgb(0, 84, 13);
+}
 li {
     display: inline;
     padding: 10px 15px;
@@ -21,6 +28,17 @@ li {
     text-align: center;
 }
 
+.largerimage{
+   height: 50%;
+   width: auto;
+}
+
+.smallerimage{
+    transform: scale(0.5,0.5);
+    height: 25%;
+    width: auto;
+}
+
 img{
     display: block;
     margin: auto;
@@ -28,5 +46,9 @@ img{
 
 #contact{
     text-align: center;
-    margin-top: 40px;
+    border-radius: 15px;
+    padding-top: 30px;
+    background-color: rgb(43, 228, 191);
+    height: 150px;
+    font-size: 20px;
 }
