@@ -20,3 +20,4 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 My website: https://github.com/Adriana1013/Homework-week-2
+https://adriana1013.github.io/Homework-week-2/
