@@ -1,0 +1,27 @@
+body {
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: #9cecfc;
+    color: #000000;
+    display: block;
+  }
+
+.text-right{
+    text-align: right;
+}
+
+li {
+    display: inline;
+    padding: 10px 15px;
+    text-decoration: none;
+  }
+
+.text-center{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
